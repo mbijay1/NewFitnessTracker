@@ -1,5 +1,9 @@
 *.class
 *.jar
-/.settings
-/target
+*.war
+*.zip
+.settings/
+target/
+*.project
+*.classpath
 
